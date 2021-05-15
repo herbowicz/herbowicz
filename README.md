@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<a href="https://stackoverflow.com/users/3603905/greg-herbowicz"><img src="https://stackoverflow.com/users/flair/3603905.png" width="208" height="58" alt="profile for Greg Herbowicz at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Greg Herbowicz at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
-
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=herbowicz&count_private=true)
 
 <a href="https://profile.codersrank.io/user/herbowicz" target="_blank">
