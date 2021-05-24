@@ -2,9 +2,9 @@
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=herbowicz&count_private=true)
 
-<a href="https://profile.codersrank.io/user/herbowicz" target="_blank">
+<!--a href="https://profile.codersrank.io/user/herbowicz" target="_blank">
   <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=herbowicz&width=640" alt="CodersRank skills chart"/>
-</a>
+</a-->
 <!--
 **herbowicz/herbowicz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
